@@ -1,0 +1,11 @@
+c:\Users\lucas\Documents\NetProject\MyLibrary\bin\Debug\net9.0\MyLibrary.deps.json
+c:\Users\lucas\Documents\NetProject\MyLibrary\bin\Debug\net9.0\MyLibrary.dll
+c:\Users\lucas\Documents\NetProject\MyLibrary\bin\Debug\net9.0\MyLibrary.pdb
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.dll
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\refint\MyLibrary.dll
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\MyLibrary.pdb
+c:\Users\lucas\Documents\NetProject\MyLibrary\obj\Debug\net9.0\ref\MyLibrary.dll
